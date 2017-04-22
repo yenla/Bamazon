@@ -1,0 +1,11 @@
+id,item_id,product_name,department_name,price,stock_quantity
+1,81,Bicycle,Tech Support,$100.83,50
+2,26,Playstation 4,Tech Support,$748.15,127
+3,47,Television,Asset Management,$921.76,233
+4,89,Oculus Rift VR,Media Relations,$401.28,312
+5,29,Office Chair,Advertising,$34.98,68
+6,48,Laptop,Quality Assurance,$394.98,126
+7,98,Copy Paper,Sales and Marketing,$15.86,2020
+8,66,Calculator,Accounting,$323.02,219
+9,36,Audio Headset,Sales and Marketing,$643.97,1190
+10,27,Orchid Vase,Human Resources,$294.26,145
