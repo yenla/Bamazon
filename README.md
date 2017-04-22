@@ -50,3 +50,9 @@ To have this app functional:
 ## Example
 
 • Below are example screenshots to show how the app is being executed
+
+<img width="575" alt="screen shot 2017-04-21 at 8 25 40 pm" src="https://cloud.githubusercontent.com/assets/9157149/25301219/b1ab52e8-26d5-11e7-89de-8b1207df51fc.png">
+
+<img width="571" alt="screen shot 2017-04-21 at 8 26 02 pm" src="https://cloud.githubusercontent.com/assets/9157149/25301218/b1a7fcce-26d5-11e7-9a72-84644189cad6.png">
+
+<img width="573" alt="screen shot 2017-04-21 at 8 26 23 pm" src="https://cloud.githubusercontent.com/assets/9157149/25301217/b1990dc2-26d5-11e7-9602-ff408b1752eb.png">
