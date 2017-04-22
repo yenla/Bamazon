@@ -1,7 +1,7 @@
 # Bamazon
 
 
-HW - Bamazon
+# HW - Bamazon
 
 
 ## Summary
@@ -10,21 +10,38 @@ HW - Bamazon
 
 
 
-## Install
+## Execute
 
-1. To install the application, first clone this repository through your terminal:
+To have this app functional:
 
-2. git clone https://github.com/yenla/Bamazon.git
+1. Create a database for the app
 
-3. Then install the inquirer package for command line interaction.
+2. Create a table to store all the product inside the database
 
-4. npm install inquirer
+3. The column field for the table should name as follow:
 
-5. npm install mysql 
+	• item_id (unique id for each product)
+
+	• product_name (Name of product)
+
+	• department_name
+
+	• price (cost to customer)
+
+	• stock_quantity (how much of the product is available in stores)
+
+
+4. Then install the inquirer package for command line interaction.
+
+5. npm install inquirer
+
+6. npm install mysql 
 
 ## Run
 
-1. To run the app execute the following command:
+1. Inside the bamazonCustomer.js change the password of the database to your own password
+
+2. To run the app execute the following command:
 
 2. node bamazonCustomer.js
 
